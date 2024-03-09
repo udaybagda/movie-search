@@ -65,3 +65,15 @@ input{
     text-align: center;
     background-color: #151f30;
 }
+
+    @media (max-width: 768px) {
+        .column {
+            width: 50%;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .column {
+            width: 100%;
+        }
+    }
