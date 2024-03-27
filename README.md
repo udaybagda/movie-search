@@ -5,7 +5,7 @@ This is a responsive movie application built using HTML, CSS, and JavaScript. It
 
 ## Live Demo
 You can try the live link here :
-### https://movies-parth.netlify.app/
+### https://movie-search-application-omega.vercel.app/
 
 
 ## Features
